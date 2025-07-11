@@ -1,0 +1,52 @@
+{
+"Rooms":[
+    {
+        "id": "R1",
+        "name": "Classic Balcony Room",
+        "src": "/images/room-12.jpg",
+        "price": "$500",
+        "description": "It is a good room with luxirious interiors"
+
+    },
+    {
+        "id": "R2",
+        "name": "Superior Double Room",
+        "src": "/images/room-4.jpg",
+        "price": "$300",
+        "description": "It is a good room with luxirious interiors"
+
+    },
+    {
+        "id": "R3",
+        "name": "Delux Double Room",
+        "src": "/images/room-10.jpg",
+        "price": "$450",
+        "description": "It is a good room with luxirious interiors"
+
+    },
+    {
+        "id": "R4",
+        "name": "Superior Double Room",
+        "src": "/images/room-9.jpg",
+        "price": "$450",
+        "description": "It is a good room with luxirious interiors"
+
+    },
+    {
+        "id": "R5",
+        "name": "Super Balcony Double Room",
+        "src": "/images/room-5.jpg",
+        "price": "$550",
+        "description": "It is a good room with luxirious interiors"
+
+    },
+    {
+        "id": "R6",
+        "name": "Delux Double Room",
+        "src": "/images/room-14.jpeg",
+        "price": "$350",
+        "description": "It is a good room with luxirious interiors"
+
+    }
+]
+}
