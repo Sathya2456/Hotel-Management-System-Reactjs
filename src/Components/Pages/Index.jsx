@@ -76,7 +76,7 @@ const Index = () => {
                 <div className="col-lg-7">
                     <div className="hero-content">
                         <h1>Enjoy A Luxuary Experience</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem commodi praesentium repudiandae dolore id magni excepturi labore laudantium eum in?</p>
+                        <p>Welcome to our hotel! Experience premium comfort and exceptional service. Our dedicated staff ensures your stay is smooth, relaxing, and memorable. Discover luxury, convenience, and top-class hospitality all under one roof</p>
                         <button className="btn">Visit Us</button>
                     </div>
                 </div>
